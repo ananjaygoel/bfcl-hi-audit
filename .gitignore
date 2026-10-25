@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+out/preds/
+out/scored.jsonl
+.DS_Store
